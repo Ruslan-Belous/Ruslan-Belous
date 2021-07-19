@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Ruslan :wink:
-- 🔭 I’m currently working on #F7DF1E
-- 🌱 I’m currently learnin
 
 <!--
 **Ruslan-Belous/Ruslan-Belous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
