@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ruslan 
+### Hi there 👋 I'm Ruslan :wink:
 - 🔭 I’m currently working on #F7DF1E
 - 🌱 I’m currently learnin
 
