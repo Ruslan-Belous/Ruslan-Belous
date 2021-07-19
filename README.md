@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Ruslan :wink:
+https://img.shields.io/badge/dynamic/json?color=green&label=112&query=rua&url=vk.com
 
 <!--
 **Ruslan-Belous/Ruslan-Belous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
